@@ -1,0 +1,15 @@
+{
+  "name": "oauthretriever",
+  "version": "1.0.0",
+  "description": "Script to generate access and refresh tokens for OAuth2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "googleapis": "^152.0.0"
+  }
+}
